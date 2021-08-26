@@ -22,7 +22,9 @@
 
 
 
-| 이름        | 레포지토리                                        | 요약                   |
-| ----------- | ------------------------------------------------- | ---------------------- |
-| 스프링 입문 | [spring5fs](https://github.com/leegwae/spring5fs) | 스프링 프로그래밍 입문 |
+| 이름         | 레포지토리                                                   | 요약                   |
+| ------------ | ------------------------------------------------------------ | ---------------------- |
+| 스프링 입문  | [spring5fs](https://github.com/leegwae/spring5fs)            | 스프링 프로그래밍 입문 |
+| 알고리즘     | [algorithms](https://github.com/leegwae/algorithms.git)      | 리트코드 풀이          |
+| 자바스크립트 | [study-javascript](https://github.com/leegwae/study-javascript) | 자바스크립트 기초 공부 |
 
