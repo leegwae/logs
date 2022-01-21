@@ -31,4 +31,5 @@
 | 알고리즘     | [algorithms](https://github.com/leegwae/algorithms.git)      | 리트코드 풀이          |
 | 자바스크립트 | [study-javascript](https://github.com/leegwae/study-javascript) | 자바스크립트 기초 공부 |
 | TIL          | [TIL](https://github.com/leegwae/TIL)                        | 내가 오늘 공부한 것들  |
+| CSS          | [learn-css](https://github.com/leegwae/learn-css)                        | CSS   |
 
