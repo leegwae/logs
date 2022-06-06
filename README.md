@@ -9,6 +9,7 @@
 | 이산수학                 | [discrete-mathematics](https://github.com/leegwae/discrete-mathematics) | 이산수학 교재 번역 및 정리           |
 | 자료구조                 | [data-structures](https://github.com/leegwae/data-structures) | 자료구조 기초 정리                   |
 | 알고리즘 | [algorithms](https://github.com/leegwae/algorithms) | 알고리즘 기초 정리 |
+| 운영체제 | [operating-system](https://github.com/leegwae/operating-system) | 운영체제 강의 필기 및 기초 정리 |
 | 소프트웨어공학 | [software-engineering](https://github.com/leegwae/software-engineering) | 소프트웨어공학 강의 필기 및 정리 |
 | 데이터베이스 | [database](https://github.com/leegwae/database) | MS SQL Server 기반 데이터베이스 공부 |
 | 컴퓨터통신               | [computer-network](https://github.com/leegwae/computer-network) | 네트워크 기초 정리                   |
