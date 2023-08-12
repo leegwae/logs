@@ -29,6 +29,7 @@
 | :star:til | [til](https://github.com/leegwae/til) | 내가 오늘 공부한 것들 |
 | :star:알고리즘 문제 풀기 | [problem-solving](https://github.com/leegwae/problem-solving) | 백준, 리트코드 풀이 |
 | :star:자바스크립트 | [study-javascript](https://github.com/leegwae/study-javascript) | 자바스크립트 기초 공부 |
+| :star:리액트 문서 읽기 | [study-react](https://github.com/leegwae/study-react) | 리액트 문서 읽기 |
 | 스프링 입문  | [spring5fs](https://github.com/leegwae/spring5fs)            | 스프링 프로그래밍 입문(중단) |
 | CSS          | [learn-css](https://github.com/leegwae/learn-css)                        | CSS 기초 공부 |
 
