@@ -1,4 +1,4 @@
-# logs
+# repos
 
 | 레포지토리                                                   | 요약                           |
 | ------------------------------------------------------------ | ------------------------------ |
@@ -8,6 +8,8 @@
 | [study-javascript](https://github.com/leegwae/study-javascript) | 자바스크립트 기초 공부         |
 | [study-react](https://github.com/leegwae/study-react)        | 리액트 문서 읽기               |
 | [learn-css](https://github.com/leegwae/learn-css)            | CSS 기초 공부                  |
+| [learn-typescript](https://github.com/leegwae/learn-typescript) | 타입스크립트 기초 공부         |
+| [grokking-simplicity](https://github.com/leegwae/grokking-simplicity) | 쏙쏙 들어오는 함수형 코딩 읽기 |
 | [spring5fs](https://github.com/leegwae/spring5fs)            | 스프링 프로그래밍 입문(중단)   |
 
 ***
